@@ -1,6 +1,8 @@
 NAME=talloc
-VERSION=2.1.13
-REVISION=1
+VERSION=2.1.14
+REVISION=2
 LICENSE=GPL-2.0-or-later
-SRC=https://www.samba.org/ftp/talloc/talloc-2.1.13.tar.gz
-SRCMD5=8d7ecc93a4bffb686e0dc00b12b6954d
+SRC=https://www.samba.org/ftp/talloc/talloc-2.1.14.tar.gz
+SRCMD5=7478da02e309316231a497a9f17a980d
+BUILDDEPS=python python3
+INSTALLDEPS=python python3
